@@ -5,3 +5,5 @@ Olá, eu sou Matheus, entrei no curso com o objetivo de entrar no mercado de tra
 - Sou nerd
 - Gosto de séries e jogos
 - Sou da área de IA
+
+Utilizo um samsung S40 core i5
